@@ -1,0 +1,1 @@
+this is a text file hi my name is niyati this is my first Django project thenkyou bye bye love u all
